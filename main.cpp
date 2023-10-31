@@ -13,7 +13,7 @@ int main(int numOfArgs, char* pszArgs[]) {
 
   int fahrenheit = celsius * 9/5 + 32;
 
-  cout << "Fahrenheit value is:" << fahrenheit << endl;
+  cout << "Fahrenheit value is: " << fahrenheit << endl;
   system("PAUSE");
   return 0;
 }
